@@ -4,6 +4,4 @@ const postsFetch = axios.create({
         Accept: "application/json",
         Authorization: "meunovotoken"
     }
-
-
 })
